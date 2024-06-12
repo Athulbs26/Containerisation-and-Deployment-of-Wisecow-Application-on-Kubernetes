@@ -1,12 +1,12 @@
 # Containerisation-and-Deployment-of-Wisecow-Application-on-Kubernetes
 
-#Objective
+## Objective
 
 To containerize and deploy the Wisecow application, hosted in the
 above-mentioned GitHub repository, on a Kubernetes environment with secure TLS
 communication.
 
-#Requirements
+### Requirements
 
 Dockerization:
 ● Develop a Dockerfile for creating a container image of the Wisecow
@@ -28,7 +28,7 @@ TLS Implementation [Challenge Goal]:
 ● Ensure that the Wisecow application supports secure TLS
 communication.
 
-#Expected Artifacts
+#### Expected Artifacts
 
 ● A private GitHub repository containing:
 ● The Wisecow application source code.
@@ -39,11 +39,11 @@ communication.
 ● A GitHub Actions workflow file for facilitating Continuous Build
 and Deployment (CI/CD)
 
-#Access Control
+##### Access Control
 
 The GitHub repository should be set to public.
 
-#End Goal
+###### End Goal
 
 The successful containerisation and deployment of the Wisecow
 application to the Kubernetes environment with an automated CI/CD pipeline and
